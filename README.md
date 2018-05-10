@@ -1,20 +1,24 @@
-# resume
+# 个人简历
 
-> a resume
 
-## Build Setup
+#### 技术来自：
+
+1. http://strml.net
+2. https://github.com/sitexa/anires
+
+## 运行
 
 ``` bash
-# install dependencies
+# 安装依赖关系
 npm install
 
-# serve with hot reload at localhost:8080
+# 开启服务 通过本地地址访问 localhost:8080
 npm run dev
 
-# build for production with minification
+# 构建
 npm run build
 
-# build for production and view the bundle analyzer report
+# 构建用于生产和查看bundle分析器报告
 npm run build --report
 ```
 
