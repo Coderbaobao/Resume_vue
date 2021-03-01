@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "marked": "^0.3.19",
-    "prismjs": "^1.14.0",
+    "prismjs": "^1.23.0",
     "vue": "^2.5.2"
   },
   "devDependencies": {
